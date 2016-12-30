@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes
+END
+MWGridCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWGridCell.h
+END
+DACircularProgressView.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/DACircularProgressView.h
+END
+MWPhotoBrowserPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWPhotoBrowserPrivate.h
+END
+MWCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWCommon.h
+END
+MWCaptionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWCaptionView.h
+END
+MWPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWPhoto.h
+END
+MWGridViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWGridViewController.m
+END
+MWGridCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWGridCell.m
+END
+DACircularProgressView.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/DACircularProgressView.m
+END
+MWZoomingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWZoomingScrollView.h
+END
+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWPhotoBrowser.h
+END
+MWCaptionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWCaptionView.m
+END
+MWPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWPhoto.m
+END
+DALabeledCircularProgressView.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/DALabeledCircularProgressView.h
+END
+MWZoomingScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWZoomingScrollView.m
+END
+MWPhotoBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWPhotoBrowser.m
+END
+DALabeledCircularProgressView.m
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/DALabeledCircularProgressView.m
+END
+MWTapDetectingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWTapDetectingView.h
+END
+MWTapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWTapDetectingImageView.h
+END
+UIImage+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/UIImage+MWPhotoBrowser.h
+END
+MWPhotoProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWPhotoProtocol.h
+END
+MWTapDetectingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWTapDetectingView.m
+END
+MWTapDetectingImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWTapDetectingImageView.m
+END
+UIImage+MWPhotoBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/UIImage+MWPhotoBrowser.m
+END
+MWGridViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/SportsApp/!svn/ver/2965/ios/branches/HiSports3.0.1/LW_Lenwave/Classes/Main/Vendors(%E7%AC%AC%E4%B8%89%E6%96%B9)/MWPhotoBrowser/Classes/MWGridViewController.h
+END

@@ -94,6 +94,7 @@
     DynamicCell *cell = [tableView dequeueReusableCellWithIdentifier:ID];
     if (!cell) {
         cell = [[DynamicCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:ID];
+        cell.selectionStyle = UITableViewCellSelectionStyleNone;
     }
     cell.selectionStyle = UITableViewCellSelectionStyleNone;
     cell.OpenBlock = ^(DynamicFramModel *framModel, NSIndexPath *index){
